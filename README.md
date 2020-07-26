@@ -1,25 +1,25 @@
 # Hacking tools
 Penetration testing and ethical hacking toolkit.
 
-🛡 Exploitation
+🛡 Exploitation - various archived CVE exploits
 
-🔑 Cryptography
+🔑 Cryptography - encryption and decryption tools, cipher recognizing tools
 
-🕶 Anonymizing
+🕶 Anonymizing - proxy scrapers, tor scripts and openvpn configs
 
-⚙ Social engineering
+⚙ Social engineering - forked social engineering framework, some other handy tools 
 
-💻 Hardware hacking
+💻 Hardware hacking - tutorials how-to do stuff like bad usb
 
-🗃 File manipulation
+🗃 File manipulation - file binders, crypters and much more .net and others
 
-🛠 Reverse engineering
+🛠 Reverse engineering - forked popular reverse engineering frameworks and links to professional courses
 
 <a href="https://ibb.co/q5QLKhT"><img src="https://i.ibb.co/X8Rf16c/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0"></a>
 Psst, scroll down.
 
 # Skid trolling framework
-Build to make fun off script kiddies that will execute any code you send them without inspection.
+Build to make fun off script kiddies that will execute any code you send them without inspection, use for fun but do not harm.
 
 ## Windows platform
 ### 1 - 
