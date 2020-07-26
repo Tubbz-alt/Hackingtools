@@ -32,6 +32,5 @@ This little 'project' was made because I wanted to excercise in as many language
 #### 2 (Node.js) - Downloads p0rn in every available directory
 #### 3 (Bash) - rickrolling while deleting whole filesystem, use when escaping feds, death to whoever launches this without looking at the code 😂
 #### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
-#### 5 (Golang) - Classic infinite messagebox with 'You have been hacked!' message
 #### 7 (Java) - Blank screen, coming soon
 
