@@ -24,9 +24,10 @@ These scripts are really poorly coded, but friend gave me 24 hours so Im trying 
 
 ### Windows platform
 #### 1 (C#) - Blank screen that you can remember from Async rat, I've made own so it doesnt break your pc when you restart it
-#### 4 (Python) - while True: webbrowser.open('https://pornhub.com')
+#### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
 ### Linux platform
 #### 2 -
-#### 3 (bash) - rickrolling while deleting whole system, use when escaping feds, dead to whoever launches this without looking at the code 😂
-#### 4 (Python) - while True: webbrowser.open('https://pornhub.com')
+#### 3 (Bash) - rickrolling while deleting whole system, use when escaping feds, death to whoever launches this without looking at the code 😂
+#### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
+#### 10 (Java) - Blank screen, coming soon
 
