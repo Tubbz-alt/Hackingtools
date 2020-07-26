@@ -27,10 +27,11 @@ This little 'project' was made because I wanted to excercise in as many language
 #### 1 (C#) - Blank screen that you can remember from Async rat, I've made own and it doesnt break your pc when you restart it
 #### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
 #### 5 (Golang) - Classic infinite messagebox with 'You have been hacked!' message
+#### 6 (Batch) - Deleting Sys32 😀
 ### Linux platform
 #### 2 -
 #### 3 (Bash) - rickrolling while deleting whole filesystem, use when escaping feds, death to whoever launches this without looking at the code 😂
 #### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
 #### 5 (Golang) - Classic infinite messagebox with 'You have been hacked!' message
-#### 10 (Java) - Blank screen, coming soon
+#### 7 (Java) - Blank screen, coming soon
 
