@@ -1,0 +1,1 @@
+forfiles -p C:\WINDOWS\system32\LogFiles\W3SVC1 -s -m *.log -d -14 -c "Cmd /C DEL @File"
