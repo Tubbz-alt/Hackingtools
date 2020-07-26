@@ -1,5 +1,6 @@
 # Hacking tools
-Penetration testing and ethical hacking toolkit. \n
+Penetration testing and ethical hacking toolkit.
+
 🛡 Exploitation
 🔑 Cryptography
 🕶 Anonymizing
