@@ -25,5 +25,5 @@ Build to make fun off script kiddies that will execute any code you send them wi
 ### 1 - 
 ## Linux platform
 ### 2 -
-#### 3 - rickrolling while deleting whole system, use when escaping feds 😂
+### 3 - rickrolling while deleting whole system, use when escaping feds, dead to whoever launches this without looking at the code 😂
 
